@@ -1,1 +1,2 @@
 This is my first document
+push method done and now i want to do pull method
